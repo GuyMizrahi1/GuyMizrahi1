@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guy</h1>
 <h3 align="center">A Risk Operations Analyst at BlueVine</h3>
 
-- 💬A highly motivated and eager individual seeking opportunities to grow and enhance skills in the field of Data Engineering,
+- 💬 A highly motivated and eager individual seeking opportunities to grow and enhance skills in the field of Data Engineering,
   consistently striving to expand knowledge and experience.
 - 👨‍💻 All of my projects are available at [https://github.com/GuyMizrahi1?tab=repositories](https://github.com/GuyMizrahi1?tab=repositories)
 
