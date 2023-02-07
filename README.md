@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+A highly motivated and eager individual seeking opportunities to grow and enhance skills in the field of Data Engineering, consistently striving to expand knowledge and experience.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guymizrahi1)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **GuyMizrahi1/GuyMizrahi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
