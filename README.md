@@ -3,7 +3,7 @@
 
 - 💬 A highly motivated and eager individual seeking opportunities to grow and enhance skills in the field of Data Engineering,
   consistently striving to expand knowledge and experience.
-- 👨‍💻 All of my projects are available at [https://github.com/GuyMizrahi1?tab=repositories](https://github.com/GuyMizrahi1?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/GuyMizrahi1?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
