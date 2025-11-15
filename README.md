@@ -12,8 +12,8 @@
 - 🔬 Currently working as a **Data Scientist at Treetoscope**, focusing on model optimization and scalable ML solutions
 - 🎓 Pursuing **M.Sc. in Data Science** at Ben Gurion University (Graduating 2026)
 - 🌱 Research focus: ML-based decision support systems using advanced models (RF, XGBoost, LSTM)
-- 💡 Experienced in identifying and fixing model bias, improving prediction accuracy, and architecting event-driven microservices
-- 🚀 Successfully migrated monolithic systems to cloud-native architectures using AWS Lambda
+- 💡 Experienced in identifying and fixing model bias, improving prediction accuracy, and architecting scalable solutions
+- 🚀 Successfully migrated monolithic systems to event-driven microservices architectures using AWS Lambda
 
 ### 🛠️ Technical Stack
 
@@ -28,6 +28,7 @@
 **Machine Learning & Data Science:**
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="80" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
