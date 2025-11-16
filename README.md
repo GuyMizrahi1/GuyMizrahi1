@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Guy Mizrahi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="40" width="40"></h1>
+<h1 align="center">Hi, I'm Guy   <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="40" width="40"></h1>
 <h3 align="center">Data Scientist | M.Sc. in Data Science Candidate</h3>
 
 <p align="center">
@@ -21,7 +21,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </p>
 
@@ -68,8 +67,4 @@ Check out my repositories below for projects in:
   </a>
 </p>
 
----
 
-<p align="center">
-  <em>"Turning data into actionable insights, one model at a time."</em>
-</p>
