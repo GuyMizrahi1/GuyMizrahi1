@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Guy   <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="40" width="40"></h1>
-<h3 align="center">Data Scientist | M.Sc. in Data Science Candidate</h3>
+<h3 align="center">Data Scientist at Treetoscope 🌳 M.Sc. in Data Science</h3>
 
 <p align="center">
   <em>Passionate about leveraging machine learning to solve real-world problems through data-driven insights</em>
@@ -11,7 +11,7 @@
 
 - 🔬 Currently working as a **Data Scientist at Treetoscope**, focusing on model optimization and scalable ML solutions
 - 🎓 Pursuing **M.Sc. in Data Science** at Ben Gurion University (Graduating 2026)
-- 🌱 Research focus: ML-based decision support systems using advanced models (RF, XGBoost, LSTM)
+- 🌱 Research focus: ML-based decision support fertilizing systems using advanced models (RF, XGBoost, LSTM)
 - 💡 Experienced in identifying and fixing model bias, improving prediction accuracy, and architecting scalable solutions
 - 🚀 Successfully migrated monolithic systems to event-driven microservices architectures using AWS Lambda
 
